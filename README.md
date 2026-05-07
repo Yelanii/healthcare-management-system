@@ -35,9 +35,8 @@ The system follows a structured client-server architecture and demonstrates back
 * Java
 * Maven
 * RESTful APIs
-* JPA / Hibernate
-* SQL Database
-* Jakarta EE / Jersey
+* Jersey (JAX-RS)
+* JSON / Jackson
 * Object-Oriented Programming (OOP)
 
 ---
